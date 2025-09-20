@@ -13,7 +13,7 @@ Además, integra un módulo de IA que predice la demanda de alimentos según hor
 - **Microservicio de Predicción:** FastAPI  
 - **Infraestructura:** GitHub (control de versiones)  
 
-## 📂 Estructura de Carpetas
+## Estructura de Carpetas
 
 TasteLogic/
 ├── frontend/ # Interfaz web (clientes y dashboard)
@@ -23,11 +23,11 @@ TasteLogic/
 ├── README.md # Descripción del proyecto
 └── .gitignore # Archivos a ignorar en git
 
-## 👥 Roles del Equipo
+## Roles del Equipo
 - **Miguel Acosta** → Fullstack + Coordinador  
 - **Dacarlos Lora** → Frontend + QA  
 
-## ✅ Requerimientos Funcionales
+## Requerimientos Funcionales
 
 ### Cliente
 - Registrarse / iniciar sesión.  
