@@ -15,13 +15,13 @@ Además, integra un módulo de IA que predice la demanda de alimentos según hor
 
 ## Estructura de Carpetas
 
-TasteLogic/
-├── frontend/ # Interfaz web (clientes y dashboard)
-├── backend/ # API REST (Node.js + Express)
-├── ia/ # Microservicio de predicción (Python + FastAPI)
-├── docs/ # Documentación y diagramas
-├── README.md # Descripción del proyecto
-└── .gitignore # Archivos a ignorar en git
+-TasteLogic/
+-frontend/ # Interfaz web (clientes y dashboard)
+-backend/ # API REST (Node.js + Express)
+-ia/ # Microservicio de predicción (Python + FastAPI)
+-docs/ # Documentación y diagramas
+-README.md # Descripción del proyecto
+-.gitignore # Archivos a ignorar en git
 
 ## Roles del Equipo
 - **Miguel Acosta** → Fullstack + Coordinador  
